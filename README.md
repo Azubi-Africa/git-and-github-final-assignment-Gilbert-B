@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 | Working-With-Pandas         |  -     This repository documents the stages I went through analyzing data with Pandas        |https://github.com/Gilbert-B/Working-With-Pandas-.git    |
+| 2 |Caesars-Cipher-Decryption         | Algorithm to decrypt and encrypt messages using Caeser's CipherCaesars         | https://github.com/Gilbert-B/Caesars-Cipher-Decryption.git    |
+| 3 |   EDA      |This repo seeks to define the various stages involved in exploratory data analysis         |https://github.com/Gilbert-B/EDA.git  |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
